@@ -1,0 +1,8 @@
+.DS_Store
+*.hex
+*.patch
+*.diff
+*.stino-settings
+*.sublime-workspace
+*.sublime-project
+
