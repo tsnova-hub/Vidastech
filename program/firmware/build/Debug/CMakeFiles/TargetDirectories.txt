@@ -1,0 +1,5 @@
+F:/project/Vidastech/program/firmware/build/Debug/CMakeFiles/vidastech_main.dir
+F:/project/Vidastech/program/firmware/build/Debug/CMakeFiles/edit_cache.dir
+F:/project/Vidastech/program/firmware/build/Debug/CMakeFiles/rebuild_cache.dir
+F:/project/Vidastech/program/firmware/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+F:/project/Vidastech/program/firmware/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

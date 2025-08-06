@@ -22,6 +22,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+//#include "ssd1306_thread.h"
 
 /* USER CODE END Includes */
 
