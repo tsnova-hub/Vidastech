@@ -48,16 +48,30 @@ target_link_directories(${CMAKE_PROJECT_NAME} PRIVATE
 # Add sources to executable
 target_sources(${CMAKE_PROJECT_NAME} PRIVATE
     # Add user sources here
-    #Src/modules/ssd1306/ssd1306_thread.c
-    #Src/modules/ssd1306/ssd1306_driver.c
-    #Src/modules/ssd1306/ssd1306_control.c
+    Core/Src/modules/max31855/max31855_thread.c
+    Core/Src/modules/max31855/max31855_driver.c
+    Core/Src/modules/max31855/max31855_control.c
+
+    Core/Src/modules/max31865/max31865_thread.c
+    Core/Src/modules/max31865/max31865_driver.c
+    Core/Src/modules/max31865/max31865_control.c
+
+    Core/Src/modules/ssd1306/ssd1306_thread.c
+    Core/Src/modules/ssd1306/ssd1306_driver.c
+    Core/Src/modules/ssd1306/ssd1306_control.c
+
+    Core/Src/modules/bme68x/bme68x_thread.c
+    Core/Src/modules/bme68x/bme68x_driver.c
+    Core/Src/modules/bme68x/bme68x_control.c
 )
 
 # Add include paths
 target_include_directories(${CMAKE_PROJECT_NAME} PRIVATE
     # Add user defined include paths
-    Inc/modules/ssd1306/
-    #/inc/modules/ssd1306/
+    Core/Inc/modules/max31855/
+    Core/Inc/modules/max31865/
+    Core/Inc/modules/ssd1306/
+    Core/Inc/modules/bme68x/
 )
 
 # Add project symbols (macros)

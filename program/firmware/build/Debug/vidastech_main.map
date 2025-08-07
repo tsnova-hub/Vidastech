@@ -267,6 +267,186 @@ Discarded input sections
  .debug_frame   0x00000000       0x2c C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-sbrkr.o)
  .ARM.attributes
                 0x00000000       0x32 C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a(libc_a-sbrkr.o)
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .debug_line    0x00000000       0x72 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .debug_str     0x00000000     0x2f0d CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .debug_line    0x00000000       0x72 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .debug_str     0x00000000     0x2f0d CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .debug_line    0x00000000       0x73 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .debug_str     0x00000000     0x2f0e CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .debug_line    0x00000000       0x72 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .debug_str     0x00000000     0x2f0d CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .debug_line    0x00000000       0x72 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .debug_str     0x00000000     0x2f0d CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .debug_line    0x00000000       0x73 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .debug_str     0x00000000     0x2f0e CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .debug_macro   0x00000000       0x1b CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .debug_line    0x00000000       0xc3 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .debug_str     0x00000000     0x2f1e CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .debug_line    0x00000000       0x70 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .debug_str     0x00000000     0x2f0b CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .debug_line    0x00000000       0x71 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .debug_str     0x00000000     0x2f0c CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .debug_line    0x00000000       0x6e CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .debug_str     0x00000000     0x2f09 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .debug_line    0x00000000       0x6e CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .debug_str     0x00000000     0x2f09 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+ .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .debug_info    0x00000000       0x22 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .debug_abbrev  0x00000000       0x12 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .debug_aranges
+                0x00000000       0x18 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .debug_macro   0x00000000       0x11 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .debug_line    0x00000000       0x6f CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .debug_str     0x00000000     0x2f0a CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .comment       0x00000000       0x44 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
+ .ARM.attributes
+                0x00000000       0x32 CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
  .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
@@ -345,6 +525,7 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
  .data          0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
  .bss           0x00000000        0x0 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000000      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
  .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/freertos.c.obj
  .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/freertos.c.obj
  .group         0x00000000        0xc CMakeFiles/vidastech_main.dir/Core/Src/freertos.c.obj
@@ -6836,6 +7017,18 @@ START GROUP
 LOAD C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libc_nano.a
 LOAD C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libm.a
 END GROUP
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_thread.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_driver.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/max31855/max31855_control.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_thread.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_driver.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/max31865/max31865_control.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_thread.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_driver.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/ssd1306/ssd1306_control.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_thread.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_driver.c.obj
+LOAD CMakeFiles/vidastech_main.dir/Core/Src/modules/bme68x/bme68x_control.c.obj
 LOAD CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
 LOAD CMakeFiles/vidastech_main.dir/Core/Src/freertos.c.obj
 LOAD CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_it.c.obj
@@ -8108,177 +8301,176 @@ LOAD C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/
  .debug_rnglists
                 0x00001807       0x13 C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
 
-.debug_macro    0x00000000    0x37933
- .debug_macro   0x00000000      0x366 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00000366      0xaf6 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00000e5c      0x244 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000010a0       0x2e CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000010ce       0x3b CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00001109       0x22 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0000112b       0x8e CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000011b9       0x51 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0000120a      0x103 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0000130d       0x6a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00001377      0x1df CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00001556       0x1c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00001572       0x22 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00001594       0xfb CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0000168f     0x1305 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00002994      0x11f CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00002ab3       0x27 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00002ada    0x21501 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00023fdb       0x6d CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00024048     0x3d64 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00027dac      0x190 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00027f3c       0x74 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00027fb0       0x29 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00027fd9       0x3c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00028015       0x34 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00028049      0x370 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000283b9       0x16 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000283cf       0x4a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00028419       0x34 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002844d       0x10 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002845d       0x58 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000284b5      0x1e5 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002869a      0x19b CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00028835       0x5d CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00028892     0x2462 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002acf4     0x1079 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002bd6d      0x154 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002bec1      0x114 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002bfd5      0x3fc CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002c3d1       0xac CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002c47d      0x788 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002cc05      0x228 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002ce2d       0x66 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002ce93      0x3a6 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002d239      0x3f9 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002d632      0x275 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002d8a7     0x1178 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002ea1f      0x7c8 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002f1e7      0x3bb CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0002f5a2      0xe42 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000303e4      0x3ca CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000307ae      0x45c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00030c0a       0x3c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00030c46       0x4a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00030c90      0x22c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00030ebc       0x67 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00030f23       0xa5 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00030fc8      0x1c4 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0003118c      0x22a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000313b6       0x35 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000313eb      0x5e4 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000319cf       0xc1 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00031a90      0x693 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00032123       0xa6 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000321c9      0x5f2 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000327bb      0x169 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00032924      0x15a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00032a7e       0xc9 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00032b47       0x1c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00032b63       0x26 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00032b89      0x4c5 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x0003304e       0xb5 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00033103       0xaa CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x000331ad       0x66 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00033213       0x74 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00033287       0xdd CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_macro   0x00033364      0x348 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_macro   0x000336ac      0x2d6 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_macro   0x00033982      0x2f7 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- .debug_macro   0x00033c79      0x2d8 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
- .debug_macro   0x00033f51      0x2f0 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_macro   0x00034241      0x2ea CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_macro   0x0003452b      0x2d3 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_macro   0x000347fe      0x305 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_macro   0x00034b03      0x2cc CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_macro   0x00034dcf      0x2f6 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_macro   0x000350c5      0x398 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_macro   0x0003545d      0x2cc CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_macro   0x00035729      0x391 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_macro   0x00035aba      0x2d4 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj
- .debug_macro   0x00035d8e      0x2f7 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_macro   0x00036085      0x2d8 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_macro   0x0003635d      0x2cc CMakeFiles/vidastech_main.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_macro   0x00036629      0x178 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
- .debug_macro   0x000367a1      0x207 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_macro   0x000369a8       0x16 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_macro   0x000369be       0x3c CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_macro   0x000369fa       0x20 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_macro   0x00036a1a       0x87 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_macro   0x00036aa1      0x270 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
- .debug_macro   0x00036d11       0x10 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
- .debug_macro   0x00036d21      0x1cd CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
- .debug_macro   0x00036eee       0x97 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
- .debug_macro   0x00036f85      0x42b CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x000373b0       0x10 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x000373c0       0xf5 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x000374b5       0x8d CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x00037542       0x9a CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x000375dc       0x22 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_macro   0x000375fe      0x19f CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
- .debug_macro   0x0003779d      0x196 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+.debug_macro    0x00000000    0x36e47
+ .debug_macro   0x00000000      0x370 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000370      0x244 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000005b4       0x2e CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000005e2       0x3b CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000061d       0x22 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000063f       0x8e CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000006cd       0x51 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000071e      0x103 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000821       0x6a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0000088b      0x1df CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000a6a       0x1c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000a86       0x22 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000aa8       0xfb CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00000ba3     0x1305 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001ea8      0x11f CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001fc7       0x27 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00001fee    0x21501 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000234ef       0x6d CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002355c     0x3d64 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000272c0      0x190 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00027450       0x74 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000274c4       0x29 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000274ed       0x3c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00027529       0x34 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002755d      0x370 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000278cd       0x16 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000278e3       0x4a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002792d       0x34 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00027961       0x10 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00027971       0x58 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000279c9      0x1e5 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00027bae      0x19b CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00027d49       0x5d CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00027da6     0x2462 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002a208     0x1079 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002b281      0x154 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002b3d5      0x114 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002b4e9      0x3fc CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002b8e5       0xac CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002b991      0x788 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002c119      0x228 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002c341       0x66 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002c3a7      0x3a6 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002c74d      0x3f9 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002cb46      0x275 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002cdbb     0x1178 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002df33      0x7c8 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002e6fb      0x3bb CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002eab6      0xe42 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002f8f8      0x3ca CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0002fcc2      0x45c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003011e       0x3c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003015a       0x4a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000301a4      0x22c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000303d0       0x67 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00030437       0xa5 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000304dc      0x1c4 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000306a0      0x22a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000308ca       0x35 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000308ff      0x5e4 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00030ee3       0xc1 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00030fa4      0x693 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00031637       0xa6 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000316dd      0x5f2 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00031ccf      0x169 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00031e38      0x15a CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00031f92       0xc9 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003205b       0x1c CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032077       0x26 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003209d      0x4c5 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032562       0xb5 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032617       0xaa CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x000326c1       0x66 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032727       0x74 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x0003279b       0xdd CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_macro   0x00032878      0x348 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_macro   0x00032bc0      0x2d6 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_macro   0x00032e96      0x2f7 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ .debug_macro   0x0003318d      0x2d8 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+ .debug_macro   0x00033465      0x2f0 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_macro   0x00033755      0x2ea CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_macro   0x00033a3f      0x2d3 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_macro   0x00033d12      0x305 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_macro   0x00034017      0x2cc CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_macro   0x000342e3      0x2f6 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_macro   0x000345d9      0x398 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_macro   0x00034971      0x2cc CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_macro   0x00034c3d      0x391 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_macro   0x00034fce      0x2d4 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj
+ .debug_macro   0x000352a2      0x2f7 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_macro   0x00035599      0x2d8 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_macro   0x00035871      0x2cc CMakeFiles/vidastech_main.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_macro   0x00035b3d      0x178 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+ .debug_macro   0x00035cb5      0x207 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_macro   0x00035ebc       0x16 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_macro   0x00035ed2       0x3c CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_macro   0x00035f0e       0x20 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_macro   0x00035f2e       0x87 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_macro   0x00035fb5      0x270 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+ .debug_macro   0x00036225       0x10 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+ .debug_macro   0x00036235      0x1cd CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+ .debug_macro   0x00036402       0x97 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+ .debug_macro   0x00036499      0x42b CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x000368c4       0x10 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x000368d4       0xf5 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x000369c9       0x8d CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x00036a56       0x9a CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x00036af0       0x22 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_macro   0x00036b12      0x19f CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .debug_macro   0x00036cb1      0x196 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
 
-.debug_line     0x00000000    0x22f74
- .debug_line    0x00000000      0xee6 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
- .debug_line    0x00000ee6      0xa37 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_line    0x0000191d      0xb39 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_line    0x00002456     0x2724 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- .debug_line    0x00004b7a     0x21b3 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
- .debug_line    0x00006d2d     0x140e CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_line    0x0000813b     0x1cc2 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_line    0x00009dfd      0xc75 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_line    0x0000aa72      0xecf CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_line    0x0000b941      0xdea CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_line    0x0000c72b      0xe91 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_line    0x0000d5bc     0x3b77 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_line    0x00011133      0x98e CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_line    0x00011ac1     0x288b CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_line    0x0001434c     0x2192 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj
- .debug_line    0x000164de     0x38f4 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_line    0x00019dd2      0xd96 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_line    0x0001ab68      0xa10 CMakeFiles/vidastech_main.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_line    0x0001b578      0x604 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
- .debug_line    0x0001bb7c     0x1575 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_line    0x0001d0f1     0x1af8 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
- .debug_line    0x0001ebe9      0xc44 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
- .debug_line    0x0001f82d     0x251d CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_line    0x00021d4a      0x81b CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
- .debug_line    0x00022565      0x792 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
- .debug_line    0x00022cf7       0x7b CMakeFiles/vidastech_main.dir/startup_stm32h723xx.s.obj
- .debug_line    0x00022d72      0x202 C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+.debug_line     0x00000000    0x22fc7
+ .debug_line    0x00000000      0xf39 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+ .debug_line    0x00000f39      0xa37 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_line    0x00001970      0xb39 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_line    0x000024a9     0x2724 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ .debug_line    0x00004bcd     0x21b3 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+ .debug_line    0x00006d80     0x140e CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_line    0x0000818e     0x1cc2 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_line    0x00009e50      0xc75 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_line    0x0000aac5      0xecf CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000b994      0xdea CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_line    0x0000c77e      0xe91 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_line    0x0000d60f     0x3b77 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_line    0x00011186      0x98e CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_line    0x00011b14     0x288b CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_line    0x0001439f     0x2192 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj
+ .debug_line    0x00016531     0x38f4 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_line    0x00019e25      0xd96 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_line    0x0001abbb      0xa10 CMakeFiles/vidastech_main.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_line    0x0001b5cb      0x604 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+ .debug_line    0x0001bbcf     0x1575 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_line    0x0001d144     0x1af8 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+ .debug_line    0x0001ec3c      0xc44 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+ .debug_line    0x0001f880     0x251d CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_line    0x00021d9d      0x81b CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .debug_line    0x000225b8      0x792 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_line    0x00022d4a       0x7b CMakeFiles/vidastech_main.dir/startup_stm32h723xx.s.obj
+ .debug_line    0x00022dc5      0x202 C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
 
-.debug_str      0x00000000   0x170531
- .debug_str     0x00000000   0x170531 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
-                             0x163246 (size before relaxing)
- .debug_str     0x00170531   0x1607d1 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_it.c.obj
- .debug_str     0x00170531   0x15ea46 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_hal_msp.c.obj
- .debug_str     0x00170531   0x15dee9 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
- .debug_str     0x00170531   0x15de09 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
- .debug_str     0x00170531   0x15d208 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
- .debug_str     0x00170531   0x15d720 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
- .debug_str     0x00170531   0x15ce85 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
- .debug_str     0x00170531   0x15d28d CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
- .debug_str     0x00170531   0x15d7de CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
- .debug_str     0x00170531   0x15dec4 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
- .debug_str     0x00170531   0x15df24 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
- .debug_str     0x00170531   0x15d2ca CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
- .debug_str     0x00170531   0x15ebba CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
- .debug_str     0x00170531   0x15d58b CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj
- .debug_str     0x00170531   0x15dda8 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
- .debug_str     0x00170531   0x15d368 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
- .debug_str     0x00170531   0x15ce79 CMakeFiles/vidastech_main.dir/Core/Src/system_stm32h7xx.c.obj
- .debug_str     0x00170531     0xa65b CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
- .debug_str     0x00170531     0xc19b CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
- .debug_str     0x00170531     0xcc58 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
- .debug_str     0x00170531     0xc6cd CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
- .debug_str     0x00170531   0x164a18 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
- .debug_str     0x00170531     0xaf9d CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
- .debug_str     0x00170531     0x8834 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
- .debug_str     0x00170531       0x8a CMakeFiles/vidastech_main.dir/startup_stm32h723xx.s.obj
- .debug_str     0x00170531      0x232 C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
+.debug_str      0x00000000   0x170544
+ .debug_str     0x00000000   0x170544 CMakeFiles/vidastech_main.dir/Core/Src/main.c.obj
+                             0x163259 (size before relaxing)
+ .debug_str     0x00170544   0x1607d1 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_it.c.obj
+ .debug_str     0x00170544   0x15ea46 CMakeFiles/vidastech_main.dir/Core/Src/stm32h7xx_hal_msp.c.obj
+ .debug_str     0x00170544   0x15dee9 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc.c.obj
+ .debug_str     0x00170544   0x15de09 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_adc_ex.c.obj
+ .debug_str     0x00170544   0x15d208 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc.c.obj
+ .debug_str     0x00170544   0x15d720 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_rcc_ex.c.obj
+ .debug_str     0x00170544   0x15ce85 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_gpio.c.obj
+ .debug_str     0x00170544   0x15d28d CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_pwr_ex.c.obj
+ .debug_str     0x00170544   0x15d7de CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_cortex.c.obj
+ .debug_str     0x00170544   0x15dec4 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal.c.obj
+ .debug_str     0x00170544   0x15df24 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c.c.obj
+ .debug_str     0x00170544   0x15d2ca CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_i2c_ex.c.obj
+ .debug_str     0x00170544   0x15ebba CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_fdcan.c.obj
+ .debug_str     0x00170544   0x15d58b CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_spi.c.obj
+ .debug_str     0x00170544   0x15dda8 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart.c.obj
+ .debug_str     0x00170544   0x15d368 CMakeFiles/vidastech_main.dir/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_uart_ex.c.obj
+ .debug_str     0x00170544   0x15ce79 CMakeFiles/vidastech_main.dir/Core/Src/system_stm32h7xx.c.obj
+ .debug_str     0x00170544     0xa65b CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/list.c.obj
+ .debug_str     0x00170544     0xc19b CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/queue.c.obj
+ .debug_str     0x00170544     0xcc58 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/tasks.c.obj
+ .debug_str     0x00170544     0xc6cd CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/timers.c.obj
+ .debug_str     0x00170544   0x164a18 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c.obj
+ .debug_str     0x00170544     0xaf9d CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c.obj
+ .debug_str     0x00170544     0x8834 CMakeFiles/vidastech_main.dir/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c.obj
+ .debug_str     0x00170544       0x8a CMakeFiles/vidastech_main.dir/startup_stm32h723xx.s.obj
+ .debug_str     0x00170544      0x232 C:/ST/STM32CubeCLT_1.18.0/GNU-tools-for-STM32/bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/hard\libg_nano.a(libc_a-memcpy-stub.o)
 
 .debug_line_str
                 0x00000000       0x6e
